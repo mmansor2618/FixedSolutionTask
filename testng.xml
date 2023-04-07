@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="CrudTest Suite">
+    <test name="Crud Test" preserve-order="true" enabled="true">
+        <classes>
+            <class name="Tests.CrudTest"/>
+        </classes>
+    </test>
+</suite>
